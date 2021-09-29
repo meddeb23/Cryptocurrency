@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.icon_style {
+  @apply p-4 cursor-pointer rounded-2xl hover:bg-accent;
+}
